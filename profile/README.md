@@ -26,10 +26,10 @@
 > We appreciate every criticism for improvment!
 
 <p>
-  <a href="https://support.ree6.de">
+  <a href="https://discord.gg/onlywiff">
     <img align="left" alt="Discord" width="30px" src="https://raw.githubusercontent.com/DxsSucuk/DxsSucuk/main/assets/discord.png">
   </a>
-  <a href="https://twitter.com/memerinoto">
+  <a href="https://twitter.com/onlywiff">
     <img align="left" alt="Twitter" width="30px" src="https://raw.githubusercontent.com/DxsSucuk/DxsSucuk/main/assets/twitter.png">
   </a>
 </p>
