@@ -4,7 +4,7 @@
 <p align="center">
   <br>
     <a href="https://github.com/OnlyWiff">
-        <img src="https://cdn.discordapp.com/banners/556842994469437442/8304b0c21bebedd2ca8982b91192cce4.png?size=1024" alt="Logo" width=250px>
+        <img src="https://avatars.githubusercontent.com/u/138016774?s=1024&v=4" alt="Logo" width=250px>
     </a>
   <br>
 </p>
