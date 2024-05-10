@@ -12,8 +12,8 @@
 <p align="center">Non-profit Projects</p>
 
 <p align="center">
-  <a href="https://support.ree6.de">
-    <img src="https://img.shields.io/discord/805149057004732457?logo=discord&style=for-the-badge" alt="Discord">
+  <a href="https://discord.gg/onlywiff">
+    <img src="https://img.shields.io/discord/1204172413995192330?logo=discord&style=for-the-badge" alt="Discord">
   </a>
 </p>
 <br>
